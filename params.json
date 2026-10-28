@@ -242,7 +242,6 @@
     }
   },
   "name": "Dataiku TShirts for Michaël Hoarau",
-  "projectStatus": "Sandbox",
   "imgPattern": 1,
   "metrics": {
     "probes": [],
@@ -305,7 +304,8 @@
     "sample",
     "gallery",
     "downloads",
-    "builtin"
+    "builtin",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
